@@ -1,0 +1,20 @@
+class Cardetails 
+{
+	public static void main(String[] args )
+	{
+	String carname="honda city";
+	short model=2002;
+	String fuel="petrol";
+	double price=100000.59;
+	long chais=2372545728254l;
+	
+	System.out.println(carname );
+	System.out.println(model);
+	System.out.println(fuel);
+	System.out.println(price);
+	System.out.println(chais);
+	
+		
+	}
+	
+}				
